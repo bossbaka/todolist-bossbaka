@@ -1,5 +1,10 @@
 # todolist-bossbaka
 
-yarn dev or npm run dev
+**install node modules:** <br> _- npm or yarn_ <br>
+**run local:** <br> _- npm run dev or yarn dev_
 
-run port http://localhost:3000/
+**tech stack in project:** <br>
+
+- react <br>
+- mui <br>
+- uuid <br>
